@@ -1,0 +1,8 @@
+CSS Classes = '_' ex. 'some_class';
+
+CSS ID = '-' ex. 'some-id';
+
+PhP variables = lowerCamelCase ex. someVariableName;
+
+PhP/html FileNames = lowerCamelCase.php or lowerCamelCase.html;
+
